@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="frase_aluModel1StoreContainer" CdmEntityContainer="frase_aluEntities3">
+    <EntitySetMapping Name="botchat">
+      <EntityTypeMapping TypeName="frase_aluModel1.botchat">
+        <MappingFragment StoreEntitySet="botchat">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="request" ColumnName="request" />
+          <ScalarProperty Name="id_usuari" ColumnName="id_usuari" />
+          <ScalarProperty Name="mensaje" ColumnName="mensaje" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="chatgrupos">
+      <EntityTypeMapping TypeName="frase_aluModel1.chatgrupos">
+        <MappingFragment StoreEntitySet="chatgrupos">
+          <ScalarProperty Name="id_mensaje" ColumnName="id_mensaje" />
+          <ScalarProperty Name="id_usuari" ColumnName="id_usuari" />
+          <ScalarProperty Name="mensaje" ColumnName="mensaje" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="id_grup" ColumnName="id_grup" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cursos">
+      <EntityTypeMapping TypeName="frase_aluModel1.cursos">
+        <MappingFragment StoreEntitySet="cursos">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="curs_inici" ColumnName="curs_inici" />
+          <ScalarProperty Name="curs_fi" ColumnName="curs_fi" />
+          <ScalarProperty Name="actiu" ColumnName="actiu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="formacion">
+      <EntityTypeMapping TypeName="frase_aluModel1.formacion">
+        <MappingFragment StoreEntitySet="formacion">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="grups">
+      <EntityTypeMapping TypeName="frase_aluModel1.grups">
+        <MappingFragment StoreEntitySet="grups">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="grups_has_alumnes">
+      <EntityTypeMapping TypeName="frase_aluModel1.grups_has_alumnes">
+        <MappingFragment StoreEntitySet="grups_has_alumnes">
+          <ScalarProperty Name="grups_id" ColumnName="grups_id" />
+          <ScalarProperty Name="usuaris_id" ColumnName="usuaris_id" />
+          <ScalarProperty Name="curs_id" ColumnName="curs_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="grups_has_docents">
+      <EntityTypeMapping TypeName="frase_aluModel1.grups_has_docents">
+        <MappingFragment StoreEntitySet="grups_has_docents">
+          <ScalarProperty Name="grups_id" ColumnName="grups_id" />
+          <ScalarProperty Name="usuaris_id" ColumnName="usuaris_id" />
+          <ScalarProperty Name="curs_id" ColumnName="curs_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="grups_has_llistes_skills">
+      <EntityTypeMapping TypeName="frase_aluModel1.grups_has_llistes_skills">
+        <MappingFragment StoreEntitySet="grups_has_llistes_skills">
+          <ScalarProperty Name="grups_id" ColumnName="grups_id" />
+          <ScalarProperty Name="llistes_skills_id" ColumnName="llistes_skills_id" />
+          <ScalarProperty Name="curs_id" ColumnName="curs_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="imatge_usuari">
+      <EntityTypeMapping TypeName="frase_aluModel1.imatge_usuari">
+        <MappingFragment StoreEntitySet="imatge_usuari">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="id_usuari" ColumnName="id_usuari" />
+          <ScalarProperty Name="imatge" ColumnName="imatge" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kpis">
+      <EntityTypeMapping TypeName="frase_aluModel1.kpis">
+        <MappingFragment StoreEntitySet="kpis">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="skills_id" ColumnName="skills_id" />
+          <ScalarProperty Name="actiu" ColumnName="actiu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="llistes_skills">
+      <EntityTypeMapping TypeName="frase_aluModel1.llistes_skills">
+        <MappingFragment StoreEntitySet="llistes_skills">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="actiu" ColumnName="actiu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="missatges">
+      <EntityTypeMapping TypeName="frase_aluModel1.missatges">
+        <MappingFragment StoreEntitySet="missatges">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="asumpte" ColumnName="asumpte" />
+          <ScalarProperty Name="cos" ColumnName="cos" />
+          <ScalarProperty Name="id_usuari" ColumnName="id_usuari" />
+          <ScalarProperty Name="id_grup" ColumnName="id_grup" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="rols">
+      <EntityTypeMapping TypeName="frase_aluModel1.rols">
+        <MappingFragment StoreEntitySet="rols">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="actiu" ColumnName="actiu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="skills">
+      <EntityTypeMapping TypeName="frase_aluModel1.skills">
+        <MappingFragment StoreEntitySet="skills">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="llistes_skills_id" ColumnName="llistes_skills_id" />
+          <ScalarProperty Name="actiu" ColumnName="actiu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usuaris">
+      <EntityTypeMapping TypeName="frase_aluModel1.usuaris">
+        <MappingFragment StoreEntitySet="usuaris">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="rols_id" ColumnName="rols_id" />
+          <ScalarProperty Name="actiu" ColumnName="actiu" />
+          <ScalarProperty Name="correu" ColumnName="correu" />
+          <ScalarProperty Name="contrasenia" ColumnName="contrasenia" />
+          <ScalarProperty Name="any_naixement" ColumnName="any_naixement" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="id_formacio" ColumnName="id_formacio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="valoracions">
+      <EntityTypeMapping TypeName="frase_aluModel1.valoracions">
+        <MappingFragment StoreEntitySet="valoracions">
+          <ScalarProperty Name="kpis_id" ColumnName="kpis_id" />
+          <ScalarProperty Name="usuari_valorat_id" ColumnName="usuari_valorat_id" />
+          <ScalarProperty Name="usuari_pp_id" ColumnName="usuari_pp_id" />
+          <ScalarProperty Name="data" ColumnName="data" />
+          <ScalarProperty Name="nota" ColumnName="nota" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

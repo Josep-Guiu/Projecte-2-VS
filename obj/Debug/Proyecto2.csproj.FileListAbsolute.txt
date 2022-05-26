@@ -1,0 +1,1461 @@
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 Login+Dise\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarLlistaSkills.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2-PanelesOk\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarSkill.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarLlistaSkills.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarSkill.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarSkill.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2-20220217T080544Z-001\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+D:\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+D:\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+D:\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+D:\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+D:\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+D:\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+D:\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+D:\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+D:\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+D:\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+D:\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+D:\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+D:\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarSkill.resources
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+D:\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarSkill.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+D:\a1 Proyecto con mails e imagenes\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarSkill.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.barcodes.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.commons.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.forms.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.io.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.kernel.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.layout.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.pdfa.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.sign.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.svg.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.ValueTuple.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.barcodes.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.commons.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.forms.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.io.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.kernel.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.layout.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.pdfa.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.sign.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\itext.svg.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\bin\Debug\System.ValueTuple.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2mailto\Proyecto2mailto\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificarGrupos.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.barcodes.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.commons.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.forms.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.io.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.kernel.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.layout.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.pdfa.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.sign.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.svg.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.ValueTuple.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.barcodes.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.commons.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.forms.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.io.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.kernel.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.layout.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.pdfa.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.sign.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\itext.svg.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\System.ValueTuple.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificarGrupos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.barcodes.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.commons.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.forms.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.io.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.kernel.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.layout.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.pdfa.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.sign.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.styledxmlparser.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.svg.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.ValueTuple.dll
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.barcodes.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.commons.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.forms.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.io.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.kernel.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.layout.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.pdfa.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.sign.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.styledxmlparser.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\itext.svg.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\bin\Debug\System.ValueTuple.xml
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificarGrupos.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\Proyecto2 VisualStudioJuntarConRevisar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.barcodes.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.commons.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.forms.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.io.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.kernel.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.layout.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.pdfa.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.sign.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.svg.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.ValueTuple.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.barcodes.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.commons.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.forms.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.io.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.kernel.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.layout.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.pdfa.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.sign.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\itext.svg.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\bin\Debug\System.ValueTuple.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificarGrupos.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 VisualStudio Sin Reportes Modificar Encriptar\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EnvDTE.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\stdole.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.xml
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.FormReports.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificarGrupos.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.compiled
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Josep Guiu\OneDrive\Escritorio\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.pdb
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe.config
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.pdb
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EnvDTE.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\stdole.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.MSXML.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.xml
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.FormReports.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificarGrupos.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Login.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.cache
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.compiled
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.exe
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.pdb
+D:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.HorarisGrup.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe.config
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.pdb
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EnvDTE.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\stdole.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.MSXML.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.xml
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.FormReports.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.HorarisGrup.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificarGrupos.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Login.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.cache
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.compiled
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.exe
+G:\01A PROYECTO 04042022\Proyecto2 Control Errores\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\EnvDTE.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\stdole.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.xml
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.FormReports.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.HorarisGrup.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificarGrupos.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.cache
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.compiled
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Desktop\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.pdb
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe.config
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.pdb
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\EnvDTE.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\stdole.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.MSXML.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.xml
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.FormReports.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.HorarisGrup.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificarGrupos.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Login.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.cache
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.compiled
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.exe
+G:\01A PROYECTO 04042022\SERGIO ES RETRASADO\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\EnvDTE.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\stdole.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.barcodes.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.commons.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.forms.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.io.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.kernel.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.layout.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.pdfa.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.sign.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.styledxmlparser.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\itext.svg.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Buffers.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Memory.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\System.ValueTuple.xml
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarCursos.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarGrupos.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarKPIS.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarListas.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.FormReports.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.HorarisGrup.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificarGrupos.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.AdministrarUsuarios.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Comunicados.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.EditarDatosAdmin.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Menu.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.ModificacionesUsuarios.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.cache
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\RdlCompile.compiled
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\cep.CEPNET0\Downloads\Proyecto2 FINAL (1)\Proyecto2 Control Errores\Proyecto2\obj\Debug\Proyecto2.pdb
