@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="66c78c19808543c6bb2097931a702d7a" Name="Diagram1" DisplayType="false" ShowGrid="false">
+        <EntityTypeShape EntityType="frase_alu.cursos" Width="1.5" PointX="10.5" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="frase_alu.grups" Width="1.5" PointX="3" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="frase_alu.grups_has_alumnes" Width="1.5" PointX="1.125" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="frase_alu.grups_has_docents" Width="1.5" PointX="3.125" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="frase_alu.grups_has_llistes_skills" Width="1.5" PointX="8.375" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="frase_alu.kpis" Width="1.5" PointX="5.875" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="frase_alu.llistes_skills" Width="1.5" PointX="2.5" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="frase_alu.rols" Width="1.5" PointX="12.125" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="frase_alu.skills" Width="1.5" PointX="5.75" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="frase_alu.usuaris" Width="1.5" PointX="8.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="frase_alu.valoracions" Width="1.5" PointX="8.625" PointY="6" IsExpanded="true" />
+        <AssociationConnector Association="frase_alu.FK_grups_has_alumnes_cursos" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_grups_has_docents_cursos" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_grups_has_llistes_skills_cursos" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_grups_has_alumnes_grups" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_grups_has_docents_grups" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_grups_has_llistes_skills_grups" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_grups_has_alumnes_usuaris" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_grups_has_docents_usuaris" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_grups_has_llistes_skills_llistes_skills" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_kpis_skills" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_valoracions_kpis" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_skills_llistes_skills" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_usuaris_rols" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_valoracions_usuaris" ManuallyRouted="false" />
+        <AssociationConnector Association="frase_alu.FK_valoracions_usuaris1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
